@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine_(Java).Coffee_Machine__Java_-task.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Basics_of_Maps.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Counting_words.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Determine_values_of_variables.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Displaying_pairs.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Getting_submaps.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Coffee_Machine_(Java).Topics-The_Map_interface-Tricky_sub-maps.main" target="11" />
+      <module name="Coffee_Machine_(Java).util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
