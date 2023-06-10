@@ -1,5 +1,5 @@
 type: edu
-custom_name: Buy, fill, take!
+custom_name: "Buy, fill, take!"
 files:
 - name: src/machine/CoffeeMachine.java
   visible: true
@@ -370,5 +370,5 @@ feedback_link: https://hyperskill.org/learn/step/5332#comment
 status: Solved
 feedback:
   message: Congratulations!
-  time: Mon, 17 Apr 2023 11:45:55 UTC
+  time: "Mon, 17 Apr 2023 11:45:55 UTC"
 record: 4

@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/The Map interface/Displaying pairs/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/The Map interface/Displaying pairs/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="jbr-11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Coffee_Machine_(Java).Topics-The_Map_interface-Displaying_pairs.main" />
     <orderEntry type="module" module-name="Coffee_Machine_(Java).util.main" />

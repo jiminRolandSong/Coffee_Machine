@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../../../../Coffee Machine (Java)/task/build/reports/tests/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../../../Coffee Machine (Java)/task/build/reports/tests/test" isTestSource="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="jbr-11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Coffee_Machine_(Java).Coffee_Machine__Java_-task-build-reports-tests.main" />
     <orderEntry type="module" module-name="Coffee_Machine_(Java).util.main" />

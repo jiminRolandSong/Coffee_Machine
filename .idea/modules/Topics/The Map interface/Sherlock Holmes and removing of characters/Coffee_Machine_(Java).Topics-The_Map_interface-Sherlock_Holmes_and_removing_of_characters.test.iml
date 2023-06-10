@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/The Map interface/Sherlock Holmes and removing of characters/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/The Map interface/Sherlock Holmes and removing of characters/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="jbr-11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Coffee_Machine_(Java).Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" />
     <orderEntry type="module" module-name="Coffee_Machine_(Java).util.main" />
